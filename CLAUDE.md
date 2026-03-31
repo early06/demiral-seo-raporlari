@@ -28,7 +28,7 @@ WebSearch ile şu kelimeleri ara, siteni bul, kaçıncı sırada olduğunu yaz:
 Üstteki aramalarda öne çıkan rakipleri listele. Armut.com'u dahil etme. 
 
 ### 4. Blog İçerik Önerileri
-Sektörde trend olan 3-10 arasıkonu öner.
+Sektörde trend olan 3-10 arası konu öner.
 
 ### 5. En Önde Olabilmemiz İçin Yapılacak Şeyler Öner
 Rakip firmalardan daha öne çıkmamız için, yapılabilecek şeyleri öner. İşimi kolaylaştır.
