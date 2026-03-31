@@ -25,17 +25,20 @@ WebSearch ile şu kelimeleri ara, siteni bul, kaçıncı sırada olduğunu yaz:
 - "etimesgut baymak servisi"
 
 ### 3. Rakip Analizi
-Üstteki aramalarda öne çıkan rakipleri listele.
+Üstteki aramalarda öne çıkan rakipleri listele. Armut.com'u dahil etme. 
 
 ### 4. Blog İçerik Önerileri
-Sektörde trend olan 3-5 konu öner.
+Sektörde trend olan 3-10 arasıkonu öner.
 
-### 5. Raporu Kaydet
+### 5. En Önde Olabilmemiz İçin Yapılacak Şeyler Öner
+Rakip firmalardan daha öne çıkmamız için, yapılabilecek şeyleri öner. İşimi kolaylaştır.
+
+### 6. Raporu Kaydet
 - Klasör: seo-raporlari/
 - Dosya adı: seo-raporlari/YYYY-MM-DD.md
 - Format: Türkçe Markdown
 
-### 6. Git Push
+### 7. Git Push
 git add seo-raporlari/
 git commit -m "SEO Raporu: [tarih]"
 git push origin main
